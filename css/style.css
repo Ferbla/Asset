@@ -22,3 +22,7 @@ body {
 .main .page-header {
   margin-top: 0px;
 }
+
+.result-area{
+  overflow-x: scroll;
+}
